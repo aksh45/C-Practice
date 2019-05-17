@@ -6,7 +6,7 @@ char a;
 struct node* ptr;
 };
 int main(){
-char name[10];
+char name[100];
 scanf("%s",name);
 int len;
 len=strlen(name);
